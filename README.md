@@ -43,7 +43,7 @@ composer create-project symfony/skeleton:"6.2.*" app
 ```bash
 exit
 ```
-Move file from directory ./app to . and delete empty directory /app
+Move all files from directory ./app to . and delete empty directory /app
 
 ### Crate env file 
 It's credentials to database.
